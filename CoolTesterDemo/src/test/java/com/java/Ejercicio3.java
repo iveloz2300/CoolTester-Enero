@@ -85,19 +85,7 @@ public class Ejercicio3 {
 				System.out.println(" El valor "+var1+" es menor que el valor "+var2);
 			}
 		}	
-		
-		
-		
-//		if( var1 > var2 && var1 == var2) {
-//			System.out.println("El valor "+var1+" es mayor que el valor "+var2);
-//			}
-//		else {
-//			System.out.println(" El valor "+var1+" es menor que el valor "+var2);
-//			}
-//		
-//		if (var1==var2) {
-//			System.out.println(" El valor "+var1+" es igual que el valor "+var2);
-//		}
+
 
 	}
 

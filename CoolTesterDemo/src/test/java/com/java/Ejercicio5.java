@@ -4,7 +4,7 @@ public class Ejercicio5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int num1=15;
+		int num1=-2;
 
 		
 		if (num1>0) {
@@ -20,9 +20,6 @@ public class Ejercicio5 {
 		else {
 			System.out.println("El numero "+num1+ " es impar");
 		}
-		
-		
-		
 	
 	}
 
