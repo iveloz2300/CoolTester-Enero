@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.opensource.qa.FacebookAutomat">
+      <class name="com.opensource.qa.SeleniumEj4">
         <methods>
-          <include name="afterTest"/>
+          <include name="TC004_Admin_DeleteUser"/>
           <include name="beforeTest"/>
-          <include name="f"/>
+          <include name="afterTest"/>
         </methods>
-      </class> <!-- com.opensource.qa.FacebookAutomat -->
+      </class> <!-- com.opensource.qa.SeleniumEj4 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
